@@ -3,7 +3,7 @@ title: PY Blog
 SEOTitle: 名来的博客 | PY Blog
 header-img: img/post-bg-desk.jpg
 description: "No."
-keyword: "PY, PY Blog, 名来的博客, 邱柏荧, Android,Google"
+keyword: "PY, PY Blog, 名来的博客,Android,Google"
 url: "http://993794095.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/993794095/993794095.github.io.git" # you code repository
@@ -49,14 +49,12 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 8099ffc3c2b789721a46            #生成的clientID
+  clientSecret: 995cc4a3d615ae4b1f3b03cc4cc5bce4d80a9f0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
   owner: 993794095    #github用户名
   admin: 993794095
@@ -70,7 +68,7 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-116269580-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
